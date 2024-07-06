@@ -1,4 +1,4 @@
-# Hi there, I'm Datadevph 👋
+# Hi there, I'm John Patrick Ombao 👋
 
 I'm a recent computer science graduate pursuing a career in data engineering. I'm passionate about working with data and leveraging modern tools and technologies to create efficient and scalable data pipelines. Below are the tools and languages I use:
 
@@ -24,12 +24,12 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 
 ## Projects
 
-- [dbt_snowflake](https://github.com/your-username/dbt_snowflake): An end-to-end data engineering project using Snowflake, dbt, and Airbyte.
+- [dbt_snowflake](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using Snowflake, dbt, and Airbyte.
 - [Other Projects]
 
 ## Education
 
-- 📚 Bachelor of Science in Computer Science from [Your University]
+- 📚 Bachelor of Science in Computer Science from Bicol University Polangui
 
 ## Connect with Me
 
