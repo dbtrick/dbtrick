@@ -11,13 +11,10 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-2962FF?style=for-the-badge&logo=airbyte&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4A4A4A?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-1A1A1A?style=for-the-badge)
-
 
 ## About Me
 
