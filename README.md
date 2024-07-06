@@ -26,7 +26,9 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 
 ## Projects
 
-- [dbt-snowflake](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using Snowflake, dbt, Airbyte and github actions.
+- [dbt end to end project](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using Snowflake, dbt, Airbyte and github actions.
+- [CI/CD with GitHub Actions](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/.github/workflows): Automate dbt build, test models, and host documentation on GitHub Pages.
+- [Orchestration with Dagster](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/dw_dagster): Orchestrate the extraction using airbyte and transformation using dbt
 - [Extract-Load_Python](https://github.com/dbtrick/Extract-Load_Python): Extracting data from different sources (CSV, Sql Server) and Load it into Postgresql using Python.
 
 ## Education
