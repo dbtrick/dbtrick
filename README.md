@@ -18,7 +18,6 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-1A1A1A?style=for-the-badge&logo=dagster&logoColor=white)
 
-
 ## About Me
 
 - 🔭 I’m currently looking for work related to data engineering and analytics.
