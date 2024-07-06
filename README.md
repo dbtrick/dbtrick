@@ -16,7 +16,8 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-1A1A1A?style=for-the-badge&logo=dagster&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-1A1A1A?style=for-the-badge)
+
 
 ## About Me
 
