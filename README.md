@@ -29,7 +29,7 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 
 ## Projects
 
-- [dbt_snowflake](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using Snowflake, dbt, and Airbyte.
+- [dbt-snowflake](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using Snowflake, dbt, and Airbyte.
 - [Other Projects]
 
 ## Education
