@@ -25,7 +25,7 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 - 🌱 I’m constantly learning and exploring new data engineering tools and technologies.
 - 👯 I’m looking to collaborate on data engineering and data analytics projects.
 - 💬 Ask me about anything related to data engineering.
-- 📫 How to reach me: [Your Email] | [Your LinkedIn]
+- 📫 How to reach me: ***www.ombaojohnpatrick@gmail.com | [LinkedIn]
 
 ## Projects
 
