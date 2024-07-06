@@ -36,6 +36,14 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 
 - 📚 Bachelor of Science in Computer Science from [Bicol University Polangui](https://bicol-u.edu.ph/category/bu-polangui/)
 
+## Experience
+
+### Philippine Statistics Authority Regional Statistical Services Office No. V - Data Management Assistant Intern 
+
+- **Data Entry and Management:** Utilized Excel and Google Sheets for efficient data handling and management tasks.
+- **Process Flow Design:** Designed process flows for quality management systems using custom CRM tools.
+- **Training:** Attended training sessions on statistics and data analysis, enhancing analytical skills.
+
 ## Connect with Me
 
 <p align="left">
