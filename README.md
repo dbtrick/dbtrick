@@ -44,4 +44,4 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 - **Training:** Attended training sessions on statistics and data analysis, enhancing analytical skills.
 
 ## Certification and Badges
-- [dbt Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108208288)
+- [dbt Fundamentals](https://credentials.getdbt.com/8bab2b25-7324-4b9c-b2a2-8a37dc0d10fb)
