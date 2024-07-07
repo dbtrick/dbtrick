@@ -42,3 +42,6 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 - **Data Entry and Management:** Utilized Excel and Google Sheets for efficient data handling and management tasks.
 - **Process Flow Design:** Designed process flows for quality management systems using custom CRM tools.
 - **Training:** Attended training sessions on statistics and data analysis, enhancing analytical skills.
+
+## Certification and Badges
+- [dbt Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108208288)
