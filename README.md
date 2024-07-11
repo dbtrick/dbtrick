@@ -33,7 +33,7 @@ I'm a recent computer science graduate pursuing a career in data engineering. I'
 
 ## Education
 
-- 📚 Bachelor of Science in Computer Science from [Bicol University Polangui](https://bicol-u.edu.ph/category/bu-polangui/)
+- 📚 Bachelor of Science in Computer Science - [Bicol University Polangui](https://bicol-u.edu.ph/category/bu-polangui/)
 
 ## Experience
 
