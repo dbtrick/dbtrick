@@ -29,4 +29,5 @@ I'm a recent Computer Science graduate pursuing a career in data engineering. I'
 - [Extract & Load Data using Python](https://github.com/dbtrick/Extract-Load_Python): Extracting data from different sources (CSV, Sql Server) and Load it into Postgresql using Python.
 - [Transforming Data using dbt](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using dbt, github actions and dagster.
 - [CI/CD with GitHub Actions](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/.github/workflows): Automate dbt build, test models, and host documentation on GitHub Pages.
-- [Orchestration with Dagster](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/dw_dagster): Orchestrate the extraction using airbyte and transformation using dbt
+- [Orchestration with Dagster](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/dw_dagster): Orchestrate the extraction using airbyte and transformation using dbt.
+- [Data Visualization using Looker](https://lookerstudio.google.com/reporting/4b27a047-c5e6-4e6a-bd0e-f913677c2b79/page/Dub4D): Enhanced business performance with charts analyzing store sales, top employees, customer engagement, and popular rental locations.
