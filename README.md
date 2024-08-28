@@ -18,7 +18,7 @@ I'm a recent Computer Science graduate pursuing a career in data engineering. I'
 
 ## About Me
 
-- 🔭 I’m currently looking for work related to data engineering and analytics. [Download my CV here](https://github.com/dbtrick/dbtrick/blob/main/ombao_patrick_CV.pdf)
+- 🔭 I’m currently looking for work related to data engineering and analytics. [Download my CV here](https://github.com/dbtrick/dbtrick/blob/main/patrick_ombao_resume.pdf)
 
 - 🌱 I’m constantly learning and exploring new data engineering tools and technologies.
 - 👯 I’m looking to collaborate on data engineering and data analytics projects.
