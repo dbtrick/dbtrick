@@ -1,6 +1,6 @@
 # Hi there, I'm Patrick 👋
 
-I'm a recent Computer Science graduate pursuing a career in data engineering. I'm passionate about working with data and leveraging modern tools and technologies to create efficient and scalable data pipelines. Below are the tools and languages I use:
+I am a Computer Science graduate currently working as a Software Developer. I am passionate about software development, data engineering, and cybersecurity.
 
 ## Languages and Tools
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
@@ -15,19 +15,8 @@ I'm a recent Computer Science graduate pursuing a career in data engineering. I'
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-## About Me
-
-- 🔭 I’m currently looking for work related to data engineering and analytics. [Download my CV here](https://github.com/dbtrick/dbtrick/blob/main/patrick_ombao_resume.pdf)
-
-- 🌱 I’m constantly learning and exploring new data engineering tools and technologies.
-- 👯 I’m looking to collaborate on data engineering and data analytics projects.
-- 💬 Ask me about anything related to data engineering.
-- 📫 How to reach me: contactpatrickombao@gmail.com | [LinkedIn](https://www.linkedin.com/in/john-patrick-ombao-1b0433319/)
-
-## Projects
-- [Extract & Load Data using Python](https://github.com/dbtrick/Extract-Load_Python): Extracting data from different sources (CSV, Sql Server) and Load it into Postgresql using Python.
-- [Transforming Data using dbt](https://github.com/dbtrick/project01_dbt_snowflake): An end-to-end data engineering project using dbt, github actions and dagster.
-- [CI/CD with GitHub Actions](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/.github/workflows): Automate dbt build, test models, and host documentation on GitHub Pages.
-- [Orchestration with Dagster](https://github.com/dbtrick/project01_dbt_snowflake/tree/main/dw_dagster): Orchestrate the extraction using airbyte and transformation using dbt.
-- [Data Visualization using Looker](https://lookerstudio.google.com/reporting/4b27a047-c5e6-4e6a-bd0e-f913677c2b79/page/Dub4D): Enhanced business performance with charts analyzing store sales, top employees, customer engagement, and popular rental locations.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
