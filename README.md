@@ -1,6 +1,6 @@
 # Hi there, I'm Patrick 👋
 
-I am a Computer Science graduate currently working as a Software Developer. I am passionate about software development, data engineering, and cybersecurity.
+I’m a Computer Science graduate with a strong passion for building secure applications. I’m focused on developing software that is both innovative and safe from security threats.
 
 ## Languages and Tools
 
