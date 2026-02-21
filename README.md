@@ -1,6 +1,6 @@
 # Hi there, I'm Patrick 👋
 
-I’m a Computer Science graduate with a strong passion for building secure applications. I’m focused on developing software that is both innovative and safe from security threats.
+I’m a Computer Science graduate with a strong passion for building secure applications and data architectures. I’m focused on developing software that is both innovative and safe from security threats.
 
 ## Languages and Tools
 
