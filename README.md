@@ -2,7 +2,7 @@
 
 I’m a Computer Science graduate with a strong passion for building secure applications and data architectures. I’m focused on developing software that is both innovative and safe from security threats.
 
-#Tech Stacks
+# Tech Stacks
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
